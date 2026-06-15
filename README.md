@@ -102,5 +102,3 @@ Data Technician Bootcamp Participant
 
 ---
 ```
-
-If you want, I can also tailor this to include screenshots, badges, or a portfolio-style GitHub layout.
