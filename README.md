@@ -49,12 +49,16 @@ The project demonstrates the ability to clean, transform, and analyse data to un
 ### ✅ Retail Dataset Analysis  
 - Applied filtering and sorting techniques  
 - Calculated totals and averages for commissions  
-- Explored patterns in customer and transaction data  
+- Explored patterns in customer and transaction data
+- <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/932d8391-9c9a-4419-b612-0749b663fcdb" />
+
 
 ### ✅ Pivot Table Analysis (Bike Sales)  
 - Analysed customer demographics by age group and country  
 - Identified most profitable segments (e.g. USA Female Adults)  
-- Evaluated effectiveness of different chart types  
+- Evaluated effectiveness of different chart types
+  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f9ae9d99-5d04-495a-9818-ec73933f463d" />
+
 
 ### ✅ Sales Dataset (County-level)  
 - Created PivotTables summarising sales by **County** and **Product**  
