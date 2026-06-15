@@ -21,7 +21,6 @@ The project demonstrates the ability to clean, transform, and analyse data to un
 - `SWITCH` – Categorise sales volume into meaningful groups (High / Medium / Low)  
 
 ---
-```
 
 ### 📂 Data Manipulation  
 - Filtering data (e.g. analysing age groups and transaction details)  
