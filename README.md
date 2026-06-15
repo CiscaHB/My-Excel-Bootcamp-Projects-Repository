@@ -1,7 +1,5 @@
 # My-Excel-Bootcamp-Projects-Repository
 Excel Data Analysis Projects - leeptalent
-
-```markdown
 # 📊 Excel Retail & Sales Analysis Project  
 
 ## 📌 Overview  
@@ -23,6 +21,7 @@ The project demonstrates the ability to clean, transform, and analyse data to un
 - `SWITCH` – Categorise sales volume into meaningful groups (High / Medium / Low)  
 
 ---
+```
 
 ### 📂 Data Manipulation  
 - Filtering data (e.g. analysing age groups and transaction details)  
@@ -95,10 +94,3 @@ The project demonstrates the ability to clean, transform, and analyse data to un
 - Automate analysis using Power Query  
 
 ---
-
-## 👤 Author  
-**Cisca Human**  
-Data Technician Bootcamp Participant  
-
----
-```
